@@ -31,7 +31,7 @@ class _LoginScreenState extends State<LoginScreen> {
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 const Text(
-                  'Welcome to SmartSplit',
+                  'Welcome to Smart Split',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
